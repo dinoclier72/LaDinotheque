@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+}
+div.Bar{
+    background-color: #4B5267;
+    width: 100vw;
+    height: 17vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #243010;
+}
+
+ul.menu{
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 2.5vw;
+    position: relative;
+    top: -20px;
+}
+
+li.menu{
+    margin: 2vw;
+    display: inline;
+    position:  relative;
+    top: -3vh
+}
+
+img.logo{
+    height: 6vw;
+    width: 6vw;
+}
+
+div.corps{
+    background-image: url(fichiers/fond\(1\).jpg);
+    height: 83vh;
+    width: 100vw;
+    background-repeat: repeat-y;
+}
+
+div.contenu{
+    background-color: #DDDDDF;
+    height: 83vh;
+    width: 84vw;
+    position: relative;
+    left: 8vw;
+}

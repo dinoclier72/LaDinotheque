@@ -1,0 +1,25 @@
+à faire:
+    page principal
+        page avec chargement d'article + défiler pour plus d'articles
+    livres
+fait        affichages des livres
+            +fiche de chaques livres
+    comptes
+        page d'inscription
+        afficher des images de profil stocké 
+    utilisateur
+        demande de carte effective
+        option de demande de ralonger un emprunt
+        formater les dates
+    admin
+        gestion des emprunts
+        gestion des utilisateur
+fait        gestion des stocks
+
+    (aide pour les boutons -> Java script ou php, envoyer une constante puis agire sur le tableau , accéder au tableau??)
+
+    -> fix pour ma page compte/option
+
+    -> champ caché pour les boutons
+
+barre de recher emprunts effective

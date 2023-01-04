@@ -1,0 +1,21 @@
+
+div.contenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    align-items: center;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
